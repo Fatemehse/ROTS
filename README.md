@@ -1,2 +1,0 @@
-# ROTS
-ROTS package
